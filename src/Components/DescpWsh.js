@@ -14,7 +14,7 @@ const DescpWsh = () => {
         alignItems: "center",
       }}
     >
-      <h3> Using two apis wwith react and redux :</h3>
+      <h3> Using two apis with react and redux :</h3>
       <p>
         Recipe Search API:{" "}
         <a href="https://www.edamam.com/" target="_blank" rel="noreferrer">
